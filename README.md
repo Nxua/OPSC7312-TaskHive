@@ -125,5 +125,5 @@ TaskHive has several planned enhancements to improve its functionality:
 - **Samuel Bekhet** - Developer
 
 
-https://github.com/ST10026652/OPSC7312-TaskHive
+https://github.com/Nxua/OPSC7312-TaskHive
 
