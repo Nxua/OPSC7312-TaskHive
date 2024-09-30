@@ -69,7 +69,7 @@ To set up and run TaskHive on your local device, follow the steps below:
 ### 4.2 Running the Application
 1. **Clone the Repository from GitHub:**
    
-   git clone https://github.com/ST10026652/OPSC7312-TaskHive
+   git clone https://github.com/Nxua/OPSC7312-TaskHive
    
 2. **Open the Project in Android Studio:**
    - Launch Android Studio and select `Open an existing project`.
