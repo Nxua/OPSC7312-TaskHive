@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:title="Home" />
+    <item android:title="Task Management">
+        <menu>
+            <item android:id="@+id/Add" android:title="Add Task" />
+            <item android:id="@+id/Search" android:title="Search Task" />
+            <item android:id="@+id/View" android:title="View Tasks" />
+        </menu>
+    </item>
+    <item android:title="Tracking and Achievements">
+        <menu>
+            <item android:id="@+id/Achievements" android:title="Achievements" />
+            <item android:id="@+id/Habit" android:title="Habit Tracking" />
+        </menu>
+    </item>
+    <item android:title="Productivity Tools">
+        <menu>
+            <item android:id="@+id/Context" android:title="Context Aware Tasks" />
+            <item android:id="@+id/Focus" android:title="Focus Mode" />
+        </menu>
+    </item>
+    <item android:id="@+id/nav_settings" android:title="Settings" />
+</menu>

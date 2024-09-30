@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="Notfieye">#FFB600</color>
+    <color name="NotfieyeBg">#C69500</color>
+    <color name="gray">#808080</color>
+    <color name="textColorPrimary">#43212121</color>
+    <color name="textColorSecondary">#000000</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#1D1D1D</color>
+    <color name="colorAccent">#BDC1C1</color>
+    <color name="light_gray">#8A8A8A</color>
+
+</resources>

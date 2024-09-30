@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskHive</string>
+    <string name="default_web_client_id">332092577863-nb8fu7mk7g87bcaggsvr08sm4ubs25si.apps.googleusercontent.com
+
+</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>

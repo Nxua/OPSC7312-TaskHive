@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Color -->
+    <item>
+        <color android:color="#F5F5F5" /> <!-- Light gray background color for good visibility -->
+    </item>
+
+    <!-- Border -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="6dp"
+                android:color="#FFD966" /> <!-- Calmer yellow border color -->
+            <corners android:radius="8dp" /> <!-- Rounded corners for a smooth look -->
+        </shape>
+    </item>
+
+</layer-list>

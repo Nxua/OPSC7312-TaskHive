@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332092577863",
+    "firebase_url": "https://notifeyetest-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notifeyetest",
+    "storage_bucket": "notifeyetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332092577863:android:9dce6722ef4dfc3883b962",
+        "android_client_info": {
+          "package_name": "com.example.notifeyetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332092577863-nb8fu7mk7g87bcaggsvr08sm4ubs25si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OJI29tdnYvIaYpq7AwNpgTyytv0CmzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332092577863-nb8fu7mk7g87bcaggsvr08sm4ubs25si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
